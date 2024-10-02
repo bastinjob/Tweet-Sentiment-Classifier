@@ -1,1 +1,1 @@
-[For the deatiled discussion of this project, view rhis PDF report.](Report.pdf)
+[For the deatiled discussion of this project, view this PDF report.](Report.pdf)
